@@ -1,0 +1,7 @@
+Customer_demographics_and_sales_Lab5.xlsx was the file provided for data wringling using Excel.
+Customer_demographics_and_sales_Lab5(final).csv is final file after the process.
+Completing the first lab, I was able to get hands on experence on:
+  =Understand how to deal with irrelevant or inaccurate data
+  =Remove empty rows and duplicated data
+  =Change text case and date formatting
+  =Trim whitespaces from data
